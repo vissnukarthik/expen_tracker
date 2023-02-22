@@ -1,1 +1,1 @@
-api/v1/expense/detail/:id
+
